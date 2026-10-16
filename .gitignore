@@ -1,0 +1,15 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug symbols / local shortcuts
+*.pdb
+*.lnk
+
+# Publication helpers stay outside repo/
+PUBLIKUJ_GITHUB.cmd
+PUBLIKUJ_GITHUB.ps1
